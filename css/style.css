@@ -1,0 +1,24 @@
+  .item-h1 {
+    flex:1;
+    margin-right: 10px;
+    font-family: 'Ovo',serif;
+   }
+  .item-hl{
+    margin-top:100px;
+    margin-right: 10px;
+    font-family: 'Ovo',serif;
+  }
+  nav{
+    font-family: 'Ovo',serif;
+  }
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+    margin-top:100px;
+    font-family: 'Ovo',serif;
+} 
+    footer li{    
+     display:inline;
+     padding:20px;
+                }
+               
